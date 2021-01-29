@@ -1,0 +1,4 @@
+[0128/144309.131:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0128/150343.296:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Hache\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\d17740b0-3b98-4dc6-9445-e5dab2e67441: The system cannot find the path specified. (0x3)
+[0128/212536.781:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0128/224726.113:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Hache\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\262a4abb-4400-4adf-91b1-244ae9548a6f: The system cannot find the path specified. (0x3)
